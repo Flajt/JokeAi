@@ -1,0 +1,2 @@
+model_checkpoint_path: "A:\\Github\\JokeAi\\Models\\checkpoint.ckpt-151875"
+all_model_checkpoint_paths: "A:\\Github\\JokeAi\\Models\\checkpoint.ckpt-151875"
